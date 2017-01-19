@@ -33,6 +33,13 @@ HOT turns on when its greater than or equal to 50
 ```
 #Exercise 2 - CLT
 
+For Uniform Distribution,
+
+mean = 1/b-a
+
+standard deviation :
+
+![](https://cloud.githubusercontent.com/assets/2521843/22105116/7594a9a0-de3a-11e6-83cf-4cd9c0cfbf8c.png)
 
 
 #Thoughts
