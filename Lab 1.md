@@ -50,8 +50,13 @@ Circuit :
 
 ![](https://cloud.githubusercontent.com/assets/2521843/22105743/61bd94a2-de3d-11e6-8796-36be6e796270.png)
 
+
+
 Output
 ![](https://cloud.githubusercontent.com/assets/2521843/22105610/cc334440-de3c-11e6-95c8-562b6eeda47e.png)
+
+
+
 #Thoughts
 
 ***Tanay*** : Quite interesting. 
