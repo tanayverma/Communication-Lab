@@ -46,7 +46,9 @@ Circuit :
 ![](https://cloud.githubusercontent.com/assets/2521843/22105642/ef1e3654-de3c-11e6-9296-36ad3f69869d.png)
 
 
+#Exercise 3 - Waveforms
 
+![](https://cloud.githubusercontent.com/assets/2521843/22105743/61bd94a2-de3d-11e6-8796-36be6e796270.png)
 
 Output
 ![](https://cloud.githubusercontent.com/assets/2521843/22105610/cc334440-de3c-11e6-95c8-562b6eeda47e.png)
@@ -61,3 +63,5 @@ E.g. if its 32 bit it changes, if its array it changes to a bus.
 Controls are the input, indicators are the output.
 
 First task was relatively easy.
+
+
