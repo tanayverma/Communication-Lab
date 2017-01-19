@@ -51,10 +51,15 @@ Circuit :
 
 
 
-Output
-![](https://cloud.githubusercontent.com/assets/2521843/22105610/cc334440-de3c-11e6-95c8-562b6eeda47e.png)
+
 
 #Exercise 3 - Waveforms
+Input
+
+![](https://cloud.githubusercontent.com/assets/2521843/22105610/cc334440-de3c-11e6-95c8-562b6eeda47e.png)
+
+Output
+
 ![](https://cloud.githubusercontent.com/assets/2521843/22105958/6a4e836e-de3e-11e6-9ca2-2690570d32ed.png)
 
 
