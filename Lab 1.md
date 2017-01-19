@@ -65,7 +65,7 @@ Output
 
 #Thoughts
 
-***Tanay*** : Quite interesting. 
+***Tanay*** : The activity is quite interesting. Labview is intuitive to use and has a shallow learning curve.
 
 ***Louis*** :  Suprised that in labview the wires automatically change size depending on their input. 
 
