@@ -22,9 +22,15 @@ Output
 
 ![](https://cloud.githubusercontent.com/assets/2521843/22104882/42f08b96-de39-11e6-9f4e-e4891731d030.png)
 
+```cpp
+The array contains the ASCII values for 'kue'
 
+We then convert it to farenheit and store it in an array
 
+Lastly we get the AVG temp.
 
+HOT turns on when its greater than or equal to 50
+```
 #Exercise 2 - CLT
 
 
