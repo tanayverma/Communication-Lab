@@ -23,16 +23,20 @@ Output
 ![](https://cloud.githubusercontent.com/assets/2521843/22104882/42f08b96-de39-11e6-9f4e-e4891731d030.png)
 
 
-Tanay : Quite interesting. 
-
-Louis : In labview the wires automatically change size depending on their input. 
-
-E.g. if its 32 bit it changes, if its array it changes to a bus.
-
-First task was relatively easy.
 
 
 #Exercise 2 - CLT
 
 
 
+#Thoughts
+
+***Tanay*** : Quite interesting. 
+
+***Louis*** :  Suprised that in labview the wires automatically change size depending on their input. 
+
+E.g. if its 32 bit it changes, if its array it changes to a bus.
+
+Controls are the input, indicators are the output.
+
+First task was relatively easy.
