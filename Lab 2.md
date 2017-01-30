@@ -36,8 +36,18 @@ Increasing the modulating index will make the signal more like a sinewave.
 
 Frequency too high.
 
-#AM DEMODULATION - COHERENT DETECTIOn
+#AM DEMODULATION - COHERENT DETECTION
 
 ![](https://cloud.githubusercontent.com/assets/2521843/22419295/b74bad38-e6d4-11e6-851e-7a423c6d8fe1.png)
 
 ###Explain mathematical theory behind this demodulation. - Why low pass and why - DC. Why do we need to scale the message
+
+
+
+#AM DEMODULATION ENVELOPE DETECTION
+![](https://cloud.githubusercontent.com/assets/2521843/22419380/21913f78-e6d5-11e6-81a3-c26300a94116.png)
+
+###Explain the mathematical theory
+
+
+
