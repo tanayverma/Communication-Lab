@@ -32,3 +32,6 @@ Increasing the modulating index will make the signal more like a sinewave.
 
 ###5k
 ![](https://cloud.githubusercontent.com/assets/2521843/22419166/1dee6ed2-e6d4-11e6-87c5-c263fa1bcbdf.png)
+
+
+Frequency too high.
