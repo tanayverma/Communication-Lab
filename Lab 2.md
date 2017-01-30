@@ -49,5 +49,5 @@ Frequency too high.
 
 ###Explain the mathematical theory
 
-
-
+#Exercise 3 AM simulation
+![](https://cloud.githubusercontent.com/assets/2521843/22419458/7dd9865a-e6d5-11e6-84f6-fc03ed1eae67.png)
