@@ -51,3 +51,23 @@ Frequency too high.
 
 #Exercise 3 AM simulation
 ![](https://cloud.githubusercontent.com/assets/2521843/22419458/7dd9865a-e6d5-11e6-84f6-fc03ed1eae67.png)
+
+
+![](https://cloud.githubusercontent.com/assets/2521843/22419592/24d12a62-e6d6-11e6-9aba-1da10ab6a1ba.png)
+
+###Message amplitude : 1
+
+![](https://cloud.githubusercontent.com/assets/2521843/22420043/3636f9f6-e6d8-11e6-8738-2cab69c3f6cc.png)
+###Message amplitude : 2
+
+![](https://cloud.githubusercontent.com/assets/2521843/22420074/5c8ae522-e6d8-11e6-95fb-28b349d0f4c7.png)
+
+###Message amplitude : 3
+![](https://cloud.githubusercontent.com/assets/2521843/22420096/7aecd3d6-e6d8-11e6-8b94-cdcde344d05a.png)
+
+
+###Message amplitude : 4
+![](https://cloud.githubusercontent.com/assets/2521843/22420130/a5572e00-e6d8-11e6-83c9-b7de7c4e8e9e.png)
+
+###EVELOPE IS SHIT
+
