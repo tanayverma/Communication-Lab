@@ -38,4 +38,6 @@ Frequency too high.
 
 #AM DEMODULATION - COHERENT DETECTIOn
 
-![](https://cloud.githubusercontent.com/assets/2521843/22419256/81eb4a9a-e6d4-11e6-97b9-aaf22123c774.png)
+![](https://cloud.githubusercontent.com/assets/2521843/22419295/b74bad38-e6d4-11e6-851e-7a423c6d8fe1.png)
+
+###Explain mathematical theory behind this demodulation. - Why low pass and why - DC. Why do we need to scale the message
