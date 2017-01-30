@@ -71,3 +71,9 @@ Frequency too high.
 
 ###EVELOPE IS SHIT
 
+#Ex 4
+
+###Explain how transmitter and reciever works.
+
+###Revise usrp
+
