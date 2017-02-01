@@ -69,9 +69,9 @@ Frequency too high.
 ###Message amplitude : 4
 ![](https://cloud.githubusercontent.com/assets/2521843/22420130/a5572e00-e6d8-11e6-83c9-b7de7c4e8e9e.png)
 
-###EVELOPE IS SHIT
 
-#Ex 4
+
+#Ex 4 - USRP
 
 ###Explain how transmitter and reciever works.
 
