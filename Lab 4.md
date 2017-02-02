@@ -1,4 +1,4 @@
-#Upsampling
+#2.Upsampling
 
 We are sending information with L length
 
@@ -9,3 +9,9 @@ e.g. For L = 5
 
 +10000
 ```
+
+#3.Pulse shaping
+
+Each symbol we are transmitting is either 1 or -1, so
+
+our root raised cosine pulse will have a filter outpuer in the **shape** of a root raised cosine pulse
