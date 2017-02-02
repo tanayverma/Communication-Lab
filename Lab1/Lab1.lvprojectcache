@@ -8,9 +8,9 @@
 		<ApplicationVersionInfo Build="4.5.2.51305" Name="LabVIEW Communications System Design Suite" Version="2.0.1" />
 	</SourceModelFeatureSet>
 	<UserSettingsDefinition Envoy="1" Name=":ZProjectSettings">
-		<ProjectLayoutUserSetting Envoy="1" Layout="&quot;&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;\r\n&lt;SandDockLayout Version=&quot;4.5.2.0&quot; IncludeDocuments=&quot;False&quot;&gt;\r\n  &lt;Window Guid=&quot;5ff24aa0-3f64-4fdb-862b-d12100fb1e3d&quot; ContentSize=&quot;248&quot; LastFocused=&quot;-8587170460842428956&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;e5fd6337-1b6f-46c9-a896-ad2a964f53fb&quot; DockedIndexInWindowGroup=&quot;1&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;93f86101-6c34-42ed-8688-9d7c421b8a81&quot; ContentSize=&quot;248&quot; LastFocused=&quot;-8587393060962521202&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;e5fd6337-1b6f-46c9-a896-ad2a964f53fb&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;be3e01c3-0792-4c1c-b1a2-70e3bb642ab1&quot; ContentSize=&quot;300&quot; LastFocused=&quot;-8587170448844870364&quot; DockedContentSize=&quot;313&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Right&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;13f2ad51-c9af-43ae-a2b9-0f593a1a7d0d&quot; DockedIndexInWindowGroup=&quot;1&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; ContentSize=&quot;300&quot; LastFocused=&quot;-8587170398164040234&quot; DockedContentSize=&quot;313&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Right&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;13f2ad51-c9af-43ae-a2b9-0f593a1a7d0d&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;a0a0b4cf-3538-4178-9e6f-a9f961db6963&quot; ContentSize=&quot;248&quot; LastFocused=&quot;0&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;e5fd6337-1b6f-46c9-a896-ad2a964f53fb&quot; DockedIndexInWindowGroup=&quot;3&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; ContentSize=&quot;101&quot; LastFocused=&quot;-8587170430494272320&quot; DockedContentSize=&quot;232&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Bottom&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;8a467fc5-ffab-447f-838c-4a9de4b3b656&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;ef8e9c49-58c8-42f3-b808-8b7ae53b5293&quot; ContentSize=&quot;248&quot; LastFocused=&quot;-8587440395700037620&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;e5fd6337-1b6f-46c9-a896-ad2a964f53fb&quot; DockedIndexInWindowGroup=&quot;2&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Bottom&quot; ContentSize=&quot;232&quot; SplitterOrientation=&quot;Vertical&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;False&quot; SelectedWindow=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; Guid=&quot;8a467fc5-ffab-447f-838c-4a9de4b3b656&quot;&gt;\r\n      &lt;Window Guid=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Left&quot; ContentSize=&quot;250&quot; SplitterOrientation=&quot;Horizontal&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;True&quot; SelectedWindow=&quot;5ff24aa0-3f64-4fdb-862b-d12100fb1e3d&quot; Guid=&quot;e5fd6337-1b6f-46c9-a896-ad2a964f53fb&quot;&gt;\r\n      &lt;Window Guid=&quot;93f86101-6c34-42ed-8688-9d7c421b8a81&quot; /&gt;\r\n      &lt;Window Guid=&quot;5ff24aa0-3f64-4fdb-862b-d12100fb1e3d&quot; /&gt;\r\n      &lt;Window Guid=&quot;ef8e9c49-58c8-42f3-b808-8b7ae53b5293&quot; /&gt;\r\n      &lt;Window Guid=&quot;a0a0b4cf-3538-4178-9e6f-a9f961db6963&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Right&quot; ContentSize=&quot;313&quot; SplitterOrientation=&quot;Horizontal&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;True&quot; SelectedWindow=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; Guid=&quot;13f2ad51-c9af-43ae-a2b9-0f593a1a7d0d&quot;&gt;\r\n      &lt;Window Guid=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; /&gt;\r\n      &lt;Window Guid=&quot;be3e01c3-0792-4c1c-b1a2-70e3bb642ab1&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n&lt;/SandDockLayout&gt;&quot;" Target="Project" xmlns="http://www.ni.com/PlatformFramework" />
+		<ProjectLayoutUserSetting Envoy="1" Layout="&quot;&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;\r\n&lt;SandDockLayout Version=&quot;4.5.2.0&quot; IncludeDocuments=&quot;False&quot;&gt;\r\n  &lt;Window Guid=&quot;5ff24aa0-3f64-4fdb-862b-d12100fb1e3d&quot; ContentSize=&quot;248&quot; LastFocused=&quot;-8587156323660173667&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;e5fd6337-1b6f-46c9-a896-ad2a964f53fb&quot; DockedIndexInWindowGroup=&quot;1&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;93f86101-6c34-42ed-8688-9d7c421b8a81&quot; ContentSize=&quot;248&quot; LastFocused=&quot;-8587393060962521202&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;e5fd6337-1b6f-46c9-a896-ad2a964f53fb&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;be3e01c3-0792-4c1c-b1a2-70e3bb642ab1&quot; ContentSize=&quot;300&quot; LastFocused=&quot;-8587156328376035206&quot; DockedContentSize=&quot;313&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Right&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;13f2ad51-c9af-43ae-a2b9-0f593a1a7d0d&quot; DockedIndexInWindowGroup=&quot;1&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; ContentSize=&quot;300&quot; LastFocused=&quot;-8587156310615152592&quot; DockedContentSize=&quot;313&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Right&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;13f2ad51-c9af-43ae-a2b9-0f593a1a7d0d&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;a0a0b4cf-3538-4178-9e6f-a9f961db6963&quot; ContentSize=&quot;248&quot; LastFocused=&quot;0&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;e5fd6337-1b6f-46c9-a896-ad2a964f53fb&quot; DockedIndexInWindowGroup=&quot;3&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; ContentSize=&quot;101&quot; LastFocused=&quot;-8587156318601952592&quot; DockedContentSize=&quot;232&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Bottom&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;8a467fc5-ffab-447f-838c-4a9de4b3b656&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;ef8e9c49-58c8-42f3-b808-8b7ae53b5293&quot; ContentSize=&quot;248&quot; LastFocused=&quot;-8587440395700037620&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;e5fd6337-1b6f-46c9-a896-ad2a964f53fb&quot; DockedIndexInWindowGroup=&quot;2&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Bottom&quot; ContentSize=&quot;232&quot; SplitterOrientation=&quot;Vertical&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;False&quot; SelectedWindow=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; Guid=&quot;8a467fc5-ffab-447f-838c-4a9de4b3b656&quot;&gt;\r\n      &lt;Window Guid=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Left&quot; ContentSize=&quot;250&quot; SplitterOrientation=&quot;Horizontal&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;True&quot; SelectedWindow=&quot;5ff24aa0-3f64-4fdb-862b-d12100fb1e3d&quot; Guid=&quot;e5fd6337-1b6f-46c9-a896-ad2a964f53fb&quot;&gt;\r\n      &lt;Window Guid=&quot;93f86101-6c34-42ed-8688-9d7c421b8a81&quot; /&gt;\r\n      &lt;Window Guid=&quot;5ff24aa0-3f64-4fdb-862b-d12100fb1e3d&quot; /&gt;\r\n      &lt;Window Guid=&quot;ef8e9c49-58c8-42f3-b808-8b7ae53b5293&quot; /&gt;\r\n      &lt;Window Guid=&quot;a0a0b4cf-3538-4178-9e6f-a9f961db6963&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Right&quot; ContentSize=&quot;313&quot; SplitterOrientation=&quot;Horizontal&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;True&quot; SelectedWindow=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; Guid=&quot;13f2ad51-c9af-43ae-a2b9-0f593a1a7d0d&quot;&gt;\r\n      &lt;Window Guid=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; /&gt;\r\n      &lt;Window Guid=&quot;be3e01c3-0792-4c1c-b1a2-70e3bb642ab1&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n&lt;/SandDockLayout&gt;&quot;" Target="Project" xmlns="http://www.ni.com/PlatformFramework" />
 		<OpenDocumentManager Envoy="1" Target="Project" xmlns="http://www.ni.com/PlatformFramework">
-			<OpenDocument ActiveEditor="NationalInstruments.VI.Design.VIDiagramControl" Envoy="347" />
+			<OpenDocument ActiveEditor="NationalInstruments.VI.Design.VIPanelControl" Envoy="347" />
 			<OpenDocument ActiveDocument="True" ActiveEditor="NationalInstruments.VI.Design.VIDiagramControl" Envoy="245" />
 			<OpenDocument ActiveEditor="NationalInstruments.VI.Design.VIDiagramControl" Envoy="227" />
 			<OpenDocument ActiveEditor="NationalInstruments.Shell.SplitEditControl" Envoy="3" />
@@ -136,7 +136,7 @@
 	</UserSettingsDefinition>
 	<UserSettingsDefinition Envoy="3" Name=":SystemDiagram">
 		<SplitViewOrientationSettingCache Envoy="3" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
-			<SplitEditOrientationEditor ColumnWidth0="607.21153846153845" ColumnWidth2="607.21153846153845" EditorName="SplitEditControl" HorizontalOrientation="True" RowHeight0="1" RowHeight2="0" />
+			<SplitEditOrientationEditor ColumnWidth0="669.49757751341224" ColumnWidth2="669.49757751341224" EditorName="SplitEditControl" HorizontalOrientation="True" RowHeight0="1" RowHeight2="0" />
 		</SplitViewOrientationSettingCache>
 		<ScrollAndZoomSettingCache Envoy="3" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
 			<ScrollAndZoomEditor EditorName="SystemDiagramEditControl" ScrollHorizontalOffset="0" ScrollVerticalOffset="0" Zoom="1" />
@@ -175,7 +175,7 @@
 	</UserSettingsDefinition>
 	<UserSettingsDefinition Envoy="245" Name=":PC:Interactive:CLT\.gvi">
 		<DefinitionCacheUserSetting Envoy="245" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
-			<FunctionDefinitionSignatureCache CacheSignature="1D27249F701307E" Height="40" ListViewHeight="40" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/MocCommon">
+			<FunctionDefinitionSignatureCache CacheSignature="1D27CBFD6541384" Height="40" ListViewHeight="40" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
 						<MergeItem Path="." IsPrimary="True">
@@ -198,8 +198,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 		<ScrollAndZoomSettingCache Envoy="245" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
-			<ScrollAndZoomEditor EditorName="VIPanelControl" ScrollHorizontalOffset="0" ScrollVerticalOffset="0" Zoom="1" />
-			<ScrollAndZoomEditor EditorName="VIDiagramControl" ScrollHorizontalOffset="307.5" ScrollVerticalOffset="56.25" Zoom="0.8" />
+			<ScrollAndZoomEditor EditorName="VIPanelControl" ScrollHorizontalOffset="83.031005859375" ScrollVerticalOffset="146" Zoom="1.25" />
+			<ScrollAndZoomEditor EditorName="VIDiagramControl" ScrollHorizontalOffset="304.4444580078125" ScrollVerticalOffset="127.77777862548828" Zoom="0.9" />
 		</ScrollAndZoomSettingCache>
 	</UserSettingsDefinition>
 	<UserSettingsDefinition Envoy="254" Name=":PC:Interactive:NI:Analysis:Generation:Uniform\ White\ Noise\ Waveform\.gvi" xmlns="http://www.ni.com/PlatformFramework">
@@ -1164,8 +1164,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="282" Name=":PC:Interactive:NI:Analysis:Support:AAL\ Base\.sli:unWrap85">
-		<DefinitionCacheUserSetting Envoy="282" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="282" Name=":PC:Interactive:NI:Analysis:Support:AAL\ Base\.sli:unWrap85" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="282" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545FD8FCE8" Height="40" IsReentrant="True" ListViewHeight="145" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -1185,13 +1185,13 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Double[]" HotSpot="0 15" ListViewHotSpot="0 80" Name="Phase in" PreferredDirection="Input" SideIndex="L1" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 25" ListViewHotSpot="0 110" Name="phase unit in" PreferredDirection="Input" SideIndex="L2" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Error" HotSpot="0 35" ListViewHotSpot="0 35" Name="error in" PreferredDirection="Input" SideIndex="L3" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 5" ListViewHotSpot="150 65" Name="return type" PreferredDirection="Output" SideIndex="R0" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Double[]" HotSpot="40 15" ListViewHotSpot="150 95" Name="Phase out" PreferredDirection="Output" SideIndex="R1" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 25" ListViewHotSpot="150 125" Name="phase unit out" PreferredDirection="Output" SideIndex="R2" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Error" HotSpot="40 35" ListViewHotSpot="150 50" Name="error out" PreferredDirection="Output" SideIndex="R3" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Double[]" HotSpot="0 15" ListViewHotSpot="0 80" LocalizedNameKey="" Name="Phase in" PreferredDirection="Input" SideIndex="L1" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 25" ListViewHotSpot="0 110" LocalizedNameKey="" Name="phase unit in" PreferredDirection="Input" SideIndex="L2" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Error" HotSpot="0 35" ListViewHotSpot="0 35" LocalizedNameKey="" Name="error in" PreferredDirection="Input" SideIndex="L3" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 5" ListViewHotSpot="150 65" LocalizedNameKey="" Name="return type" PreferredDirection="Output" SideIndex="R0" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Double[]" HotSpot="40 15" ListViewHotSpot="150 95" LocalizedNameKey="" Name="Phase out" PreferredDirection="Output" SideIndex="R1" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 25" ListViewHotSpot="150 125" LocalizedNameKey="" Name="phase unit out" PreferredDirection="Output" SideIndex="R2" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Error" HotSpot="40 35" ListViewHotSpot="150 50" LocalizedNameKey="" Name="error out" PreferredDirection="Output" SideIndex="R3" />
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
@@ -2889,7 +2889,7 @@
 	</UserSettingsDefinition>
 	<UserSettingsDefinition Envoy="347" Name=":PC:Interactive:Waveform\.gvi">
 		<DefinitionCacheUserSetting Envoy="347" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
-			<FunctionDefinitionSignatureCache CacheSignature="1D26FEF08513B74" Height="40" ListViewHeight="40" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/MocCommon">
+			<FunctionDefinitionSignatureCache CacheSignature="1D27CBFD6D37D18" Height="40" ListViewHeight="40" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
 						<MergeItem Path="." IsPrimary="True">
@@ -2909,14 +2909,13 @@
 					</MergeScript>
 				</p.IconModel>
 				<CachedMethodCallDependency SourceId="15,88,113" TargetName="NI:Analysis:Generation:Sine\ Waveform\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="151" TargetName="NI:Analysis:Measurement:Power\ Spectral\ Density\ for\ 1\ Chan\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="306,309" TargetName="NI:Analysis:Measurement:Amplitude\ and\ Phase\ Spectrum\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="335" TargetName="NI:Analysis:Filtering:Butterworth\ Bandpass\ Filter\ \(Waveform\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency SourceId="151,358" TargetName="NI:Analysis:Measurement:Power\ Spectral\ Density\ for\ 1\ Chan\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency SourceId="380" TargetName="NI:Analysis:Filtering:Butterworth\ Bandpass\ Filter\ \(Waveform\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 		<ScrollAndZoomSettingCache Envoy="347" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
-			<ScrollAndZoomEditor EditorName="VIPanelControl" ScrollHorizontalOffset="0" ScrollVerticalOffset="48" Zoom="0.75" />
-			<ScrollAndZoomEditor EditorName="VIDiagramControl" ScrollHorizontalOffset="-16" ScrollVerticalOffset="35" Zoom="1" />
+			<ScrollAndZoomEditor EditorName="VIPanelControl" ScrollHorizontalOffset="0" ScrollVerticalOffset="0" Zoom="0.75" />
+			<ScrollAndZoomEditor EditorName="VIDiagramControl" ScrollHorizontalOffset="28" ScrollVerticalOffset="50" Zoom="1" />
 		</ScrollAndZoomSettingCache>
 		<SplitViewOrientationSettingCache Envoy="347" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
 			<SplitEditOrientationEditor ColumnWidth0="1" ColumnWidth2="1" EditorName="SplitEditControl" HorizontalOrientation="True" RowHeight0="1" RowHeight2="1" />
@@ -4280,21 +4279,21 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="ComplexDouble[,]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="X_DataItem_Name" Name="X" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="ComplexDouble[,]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="X_DataItem_Name" Name="X" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>
 						<Array Lengths="0,0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Boolean" HotSpot="0 35" ListViewHotSpot="0 50" LocalizedNameKey="shift_3F00_DataItem_Name" Name="shift?" PreferredDirection="Input" SideIndex="L3" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Boolean" HotSpot="0 35" ListViewHotSpot="0 50" LocalizedNameKey="shift_3F00_DataItem_Name" Name="shift?" PreferredDirection="Input" SideIndex="L3">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Int32" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="m_DataItem_Name" Name="m" PreferredDirection="Input" SideIndex="L1">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Int32" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="m_DataItem_Name" Name="m" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
 					<p.DefaultValue>-1</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Int32" HotSpot="0 25" ListViewHotSpot="0 80" LocalizedNameKey="n_DataItem_Name" Name="n" PreferredDirection="Input" SideIndex="L2">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Int32" HotSpot="0 25" ListViewHotSpot="0 80" LocalizedNameKey="n_DataItem_Name" Name="n" PreferredDirection="Input" SideIndex="L2" UnitAnnotation="">
 					<p.DefaultValue>-1</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 110" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 110" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -4303,12 +4302,12 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="50 5" ListViewHotSpot="150 95" LocalizedNameKey="FFT_7B00X_7D00_DataItem_Name" Name="FFT{X}" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="50 5" ListViewHotSpot="150 95" LocalizedNameKey="FFT_7B00X_7D00_DataItem_Name" Name="FFT{X}" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>
 						<Array Lengths="0,0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 125" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 125" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -4352,21 +4351,21 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Double[,]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="X_DataItem_Name" Name="X" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Double[,]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="X_DataItem_Name" Name="X" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>
 						<Array Lengths="0,0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Boolean" HotSpot="0 35" ListViewHotSpot="0 50" LocalizedNameKey="shift_3F00_DataItem_Name" Name="shift?" PreferredDirection="Input" SideIndex="L3" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Boolean" HotSpot="0 35" ListViewHotSpot="0 50" LocalizedNameKey="shift_3F00_DataItem_Name" Name="shift?" PreferredDirection="Input" SideIndex="L3">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Int32" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="m_DataItem_Name" Name="m" PreferredDirection="Input" SideIndex="L1">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Int32" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="m_DataItem_Name" Name="m" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
 					<p.DefaultValue>-1</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Int32" HotSpot="0 25" ListViewHotSpot="0 80" LocalizedNameKey="n_DataItem_Name" Name="n" PreferredDirection="Input" SideIndex="L2">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Int32" HotSpot="0 25" ListViewHotSpot="0 80" LocalizedNameKey="n_DataItem_Name" Name="n" PreferredDirection="Input" SideIndex="L2" UnitAnnotation="">
 					<p.DefaultValue>-1</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 110" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 110" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -4375,12 +4374,12 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="50 5" ListViewHotSpot="150 95" LocalizedNameKey="FFT_7B00X_7D00_DataItem_Name" Name="FFT{X}" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="50 5" ListViewHotSpot="150 95" LocalizedNameKey="FFT_7B00X_7D00_DataItem_Name" Name="FFT{X}" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>
 						<Array Lengths="0,0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 125" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 125" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -4614,23 +4613,23 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="0 15" ListViewHotSpot="0 50" Name="xH in" PreferredDirection="Input" SideIndex="L1" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 25" ListViewHotSpot="0 80" Name="orgRow in" PreferredDirection="Input" SideIndex="L2" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 110" Name="orgCol in" PreferredDirection="Input" SideIndex="L3" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 45" ListViewHotSpot="0 140" Name="rowsFFT in" PreferredDirection="Input" SideIndex="L4" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 55" ListViewHotSpot="0 170" Name="colsFFT in" PreferredDirection="Input" SideIndex="L5" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 65" ListViewHotSpot="0 200" Name="shift in" PreferredDirection="Input" SideIndex="L6" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="0 75" ListViewHotSpot="0 230" Name="yH in" PreferredDirection="Input" SideIndex="L7" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Error" HotSpot="0 85" ListViewHotSpot="0 260" Name="error in" PreferredDirection="Input" SideIndex="L8" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 5" ListViewHotSpot="150 35" Name="return type" PreferredDirection="Output" SideIndex="R0" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="40 15" ListViewHotSpot="150 65" Name="xH out" PreferredDirection="Output" SideIndex="R1" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 25" ListViewHotSpot="150 95" Name="orgRow out" PreferredDirection="Output" SideIndex="R2" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 35" ListViewHotSpot="150 125" Name="orgCol out" PreferredDirection="Output" SideIndex="R3" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 45" ListViewHotSpot="150 155" Name="rowsFFT out" PreferredDirection="Output" SideIndex="R4" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 55" ListViewHotSpot="150 185" Name="colsFFT out" PreferredDirection="Output" SideIndex="R5" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 65" ListViewHotSpot="150 215" Name="shift out" PreferredDirection="Output" SideIndex="R6" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="40 75" ListViewHotSpot="150 245" Name="yH out" PreferredDirection="Output" SideIndex="R7" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Error" HotSpot="40 85" ListViewHotSpot="150 275" Name="error out" PreferredDirection="Output" SideIndex="R8" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="0 15" ListViewHotSpot="0 50" LocalizedNameKey="" Name="xH in" PreferredDirection="Input" SideIndex="L1" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 25" ListViewHotSpot="0 80" LocalizedNameKey="" Name="orgRow in" PreferredDirection="Input" SideIndex="L2" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 110" LocalizedNameKey="" Name="orgCol in" PreferredDirection="Input" SideIndex="L3" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 45" ListViewHotSpot="0 140" LocalizedNameKey="" Name="rowsFFT in" PreferredDirection="Input" SideIndex="L4" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 55" ListViewHotSpot="0 170" LocalizedNameKey="" Name="colsFFT in" PreferredDirection="Input" SideIndex="L5" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 65" ListViewHotSpot="0 200" LocalizedNameKey="" Name="shift in" PreferredDirection="Input" SideIndex="L6" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="0 75" ListViewHotSpot="0 230" LocalizedNameKey="" Name="yH in" PreferredDirection="Input" SideIndex="L7" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Error" HotSpot="0 85" ListViewHotSpot="0 260" LocalizedNameKey="" Name="error in" PreferredDirection="Input" SideIndex="L8" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 5" ListViewHotSpot="150 35" LocalizedNameKey="" Name="return type" PreferredDirection="Output" SideIndex="R0" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="40 15" ListViewHotSpot="150 65" LocalizedNameKey="" Name="xH out" PreferredDirection="Output" SideIndex="R1" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 25" ListViewHotSpot="150 95" LocalizedNameKey="" Name="orgRow out" PreferredDirection="Output" SideIndex="R2" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 35" ListViewHotSpot="150 125" LocalizedNameKey="" Name="orgCol out" PreferredDirection="Output" SideIndex="R3" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 45" ListViewHotSpot="150 155" LocalizedNameKey="" Name="rowsFFT out" PreferredDirection="Output" SideIndex="R4" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 55" ListViewHotSpot="150 185" LocalizedNameKey="" Name="colsFFT out" PreferredDirection="Output" SideIndex="R5" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 65" ListViewHotSpot="150 215" LocalizedNameKey="" Name="shift out" PreferredDirection="Output" SideIndex="R6" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="40 75" ListViewHotSpot="150 245" LocalizedNameKey="" Name="yH out" PreferredDirection="Output" SideIndex="R7" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Error" HotSpot="40 85" ListViewHotSpot="150 275" LocalizedNameKey="" Name="error out" PreferredDirection="Output" SideIndex="R8" />
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
@@ -4853,23 +4852,23 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Double[,]" HotSpot="0 15" ListViewHotSpot="0 50" Name="xH in" PreferredDirection="Input" SideIndex="L1" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 25" ListViewHotSpot="0 80" Name="orgRow in" PreferredDirection="Input" SideIndex="L2" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 110" Name="orgCol in" PreferredDirection="Input" SideIndex="L3" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 45" ListViewHotSpot="0 140" Name="rowsFFT in" PreferredDirection="Input" SideIndex="L4" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 55" ListViewHotSpot="0 170" Name="colsFFT in" PreferredDirection="Input" SideIndex="L5" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 65" ListViewHotSpot="0 200" Name="shift in" PreferredDirection="Input" SideIndex="L6" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="0 75" ListViewHotSpot="0 230" Name="yH in" PreferredDirection="Input" SideIndex="L7" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Error" HotSpot="0 85" ListViewHotSpot="0 260" Name="error in" PreferredDirection="Input" SideIndex="L8" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 5" ListViewHotSpot="150 35" Name="return type" PreferredDirection="Output" SideIndex="R0" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Double[,]" HotSpot="40 15" ListViewHotSpot="150 65" Name="xH out" PreferredDirection="Output" SideIndex="R1" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 25" ListViewHotSpot="150 95" Name="orgRow out" PreferredDirection="Output" SideIndex="R2" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 35" ListViewHotSpot="150 125" Name="orgCol out" PreferredDirection="Output" SideIndex="R3" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 45" ListViewHotSpot="150 155" Name="rowsFFT out" PreferredDirection="Output" SideIndex="R4" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 55" ListViewHotSpot="150 185" Name="colsFFT out" PreferredDirection="Output" SideIndex="R5" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 65" ListViewHotSpot="150 215" Name="shift out" PreferredDirection="Output" SideIndex="R6" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="40 75" ListViewHotSpot="150 245" Name="yH out" PreferredDirection="Output" SideIndex="R7" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Error" HotSpot="40 85" ListViewHotSpot="150 275" Name="error out" PreferredDirection="Output" SideIndex="R8" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Double[,]" HotSpot="0 15" ListViewHotSpot="0 50" LocalizedNameKey="" Name="xH in" PreferredDirection="Input" SideIndex="L1" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 25" ListViewHotSpot="0 80" LocalizedNameKey="" Name="orgRow in" PreferredDirection="Input" SideIndex="L2" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 110" LocalizedNameKey="" Name="orgCol in" PreferredDirection="Input" SideIndex="L3" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 45" ListViewHotSpot="0 140" LocalizedNameKey="" Name="rowsFFT in" PreferredDirection="Input" SideIndex="L4" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 55" ListViewHotSpot="0 170" LocalizedNameKey="" Name="colsFFT in" PreferredDirection="Input" SideIndex="L5" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Int32" HotSpot="0 65" ListViewHotSpot="0 200" LocalizedNameKey="" Name="shift in" PreferredDirection="Input" SideIndex="L6" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="0 75" ListViewHotSpot="0 230" LocalizedNameKey="" Name="yH in" PreferredDirection="Input" SideIndex="L7" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Error" HotSpot="0 85" ListViewHotSpot="0 260" LocalizedNameKey="" Name="error in" PreferredDirection="Input" SideIndex="L8" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 5" ListViewHotSpot="150 35" LocalizedNameKey="" Name="return type" PreferredDirection="Output" SideIndex="R0" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Double[,]" HotSpot="40 15" ListViewHotSpot="150 65" LocalizedNameKey="" Name="xH out" PreferredDirection="Output" SideIndex="R1" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 25" ListViewHotSpot="150 95" LocalizedNameKey="" Name="orgRow out" PreferredDirection="Output" SideIndex="R2" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 35" ListViewHotSpot="150 125" LocalizedNameKey="" Name="orgCol out" PreferredDirection="Output" SideIndex="R3" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 45" ListViewHotSpot="150 155" LocalizedNameKey="" Name="rowsFFT out" PreferredDirection="Output" SideIndex="R4" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 55" ListViewHotSpot="150 185" LocalizedNameKey="" Name="colsFFT out" PreferredDirection="Output" SideIndex="R5" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 65" ListViewHotSpot="150 215" LocalizedNameKey="" Name="shift out" PreferredDirection="Output" SideIndex="R6" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="ComplexDouble[,]" HotSpot="40 75" ListViewHotSpot="150 245" LocalizedNameKey="" Name="yH out" PreferredDirection="Output" SideIndex="R7" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Error" HotSpot="40 85" ListViewHotSpot="150 275" LocalizedNameKey="" Name="error out" PreferredDirection="Output" SideIndex="R8" />
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
@@ -5337,7 +5336,7 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)" HotSpot="0 5" ListViewHotSpot="0 185" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)" HotSpot="0 5" ListViewHotSpot="0 185" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>
 						<Waveform>
 							<Timestamp>0;0;Utc</Timestamp>
@@ -5352,16 +5351,16 @@
 						</Waveform>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="@db12ba8c4220471a80e41a527757cffd" HotSpot="25 0" ListViewHotSpot="0 170" LocalizedNameKey="window_2000type_DataItem_Name" Name="window type" PreferredDirection="Input" SideIndex="T1" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="@db12ba8c4220471a80e41a527757cffd" HotSpot="25 0" ListViewHotSpot="0 170" LocalizedNameKey="window_2000type_DataItem_Name" Name="window type" PreferredDirection="Input" SideIndex="T1">
 					<p.DefaultValue>1</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="@f94937c7b7fc4299b96164725f4188c0" HotSpot="0 35" ListViewHotSpot="0 155" LocalizedNameKey="averaging_2000parameters_DataItem_Name" Name="averaging parameters" PreferredDirection="Input" SideIndex="L3" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="@f94937c7b7fc4299b96164725f4188c0" HotSpot="0 35" ListViewHotSpot="0 155" LocalizedNameKey="averaging_2000parameters_DataItem_Name" Name="averaging parameters" PreferredDirection="Input" SideIndex="L3">
 					<p.DefaultValue>0_0_0_</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Boolean" HotSpot="0 25" ListViewHotSpot="0 35" LocalizedNameKey="dB_2000on_DataItem_Name" Name="dB on" PreferredDirection="Input" SideIndex="L2" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Boolean" HotSpot="0 25" ListViewHotSpot="0 35" LocalizedNameKey="dB_2000on_DataItem_Name" Name="dB on" PreferredDirection="Input" SideIndex="L2">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 50" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 50" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -5370,13 +5369,13 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 125" LocalizedNameKey="restart_2000averaging_DataItem_Name" Name="restart averaging" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 125" LocalizedNameKey="restart_2000averaging_DataItem_Name" Name="restart averaging" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="8" CallUsage="Recommended" DataType="Double" HotSpot="35 0" ListViewHotSpot="0 140" LocalizedNameKey="window_2000parameter_DataItem_Name" Name="window parameter" PreferredDirection="Input" SideIndex="T2">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="8" CallUsage="Recommended" DataType="Double" HotSpot="35 0" ListViewHotSpot="0 140" LocalizedNameKey="window_2000parameter_DataItem_Name" Name="window parameter" PreferredDirection="Input" SideIndex="T2" UnitAnnotation="">
 					<p.DefaultValue>0xFFF8000000000000</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="@a8106957b9c74a119f0e3cfccf03e781" HotSpot="50 5" ListViewHotSpot="150 65" LocalizedNameKey="power_2000spectral_2000density_DataItem_Name" Name="power spectral density" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="@a8106957b9c74a119f0e3cfccf03e781" HotSpot="50 5" ListViewHotSpot="150 65" LocalizedNameKey="power_2000spectral_2000density_DataItem_Name" Name="power spectral density" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>0x0</Field1>
@@ -5385,13 +5384,13 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="2" CallUsage="Recommended" DataType="Boolean" HotSpot="50 25" ListViewHotSpot="150 80" LocalizedNameKey="averaging_2000done_DataItem_Name" Name="averaging done" PreferredDirection="Output" SideIndex="R2" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="2" CallUsage="Recommended" DataType="Boolean" HotSpot="50 25" ListViewHotSpot="150 80" LocalizedNameKey="averaging_2000done_DataItem_Name" Name="averaging done" PreferredDirection="Output" SideIndex="R2">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="50 35" ListViewHotSpot="150 95" LocalizedNameKey="averages_2000completed_DataItem_Name" Name="averages completed" PreferredDirection="Output" SideIndex="R3" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="50 35" ListViewHotSpot="150 95" LocalizedNameKey="averages_2000completed_DataItem_Name" Name="averages completed" PreferredDirection="Output" SideIndex="R3">
 					<p.DefaultValue>0x0</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="4" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 110" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="4" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 110" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -8122,9 +8121,9 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<CachedMethodCallDependency SourceId="397" TargetName="NI:Analysis:Filtering:Butterworth\ Filter\ Design\ with\ State\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="407" TargetName="NI:Analysis:Filtering:Filtering\ \(Waveform\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedTypeDefinitionDependency SourceId="421" TargetName="NI:Analysis:Filtering:Filter\ Passband\ Type\.gtype" xmlns="http://www.ni.com/PanelCommon" />
+				<CachedMethodCallDependency ExportedSignature="-2075955195" SourceId="397" TargetName="NI:Analysis:Filtering:Butterworth\ Filter\ Design\ with\ State\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="-1893151244" SourceId="407" TargetName="NI:Analysis:Filtering:Filtering\ \(Waveform\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedTypeDefinitionDependency ExportedSignature="108788496" SourceId="421" TargetName="NI:Analysis:Filtering:Filter\ Passband\ Type\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="456,447" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="694443715" SourceId="135,136" TargetName="Error\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 			</FunctionDefinitionSignatureCache>
@@ -10394,21 +10393,21 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="ComplexDouble[]" HotSpot="0 5" ListViewHotSpot="0 125" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="ComplexDouble[]" HotSpot="0 5" ListViewHotSpot="0 125" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>
 						<Array Lengths="0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="15 50" ListViewHotSpot="0 35" LocalizedNameKey="sampling_2000frequency_DataItem_Name" Name="sampling frequency" PreferredDirection="Input" SideIndex="B0">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="15 50" ListViewHotSpot="0 35" LocalizedNameKey="sampling_2000frequency_DataItem_Name" Name="sampling frequency" PreferredDirection="Input" SideIndex="B0" UnitAnnotation="">
 					<p.DefaultValue>0x3FF0000000000000</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 50" LocalizedNameKey="cutoff_2000frequency_DataItem_Name" Name="cutoff frequency" PreferredDirection="Input" SideIndex="L1">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 50" LocalizedNameKey="cutoff_2000frequency_DataItem_Name" Name="cutoff frequency" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
 					<p.DefaultValue>0x3FC0000000000002</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 65" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 65" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 95" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 95" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -10417,15 +10416,15 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 80" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 80" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3" UnitAnnotation="">
 					<p.DefaultValue>2</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="ComplexDouble[]" HotSpot="50 5" ListViewHotSpot="150 140" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="ComplexDouble[]" HotSpot="50 5" ListViewHotSpot="150 140" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>
 						<Array Lengths="0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 110" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 110" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -10470,21 +10469,21 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Double[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Double[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>
 						<Array Lengths="0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="15 50" ListViewHotSpot="0 50" LocalizedNameKey="sampling_2000frequency_DataItem_Name" Name="sampling frequency" PreferredDirection="Input" SideIndex="B0">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="15 50" ListViewHotSpot="0 50" LocalizedNameKey="sampling_2000frequency_DataItem_Name" Name="sampling frequency" PreferredDirection="Input" SideIndex="B0" UnitAnnotation="">
 					<p.DefaultValue>0x3FF0000000000000</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="cutoff_2000frequency_DataItem_Name" Name="cutoff frequency" PreferredDirection="Input" SideIndex="L1">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="cutoff_2000frequency_DataItem_Name" Name="cutoff frequency" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
 					<p.DefaultValue>0x3FC0000000000002</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 95" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 95" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 125" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 125" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -10493,15 +10492,15 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 110" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 110" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3" UnitAnnotation="">
 					<p.DefaultValue>2</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Double[]" HotSpot="50 5" ListViewHotSpot="150 80" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Double[]" HotSpot="50 5" ListViewHotSpot="150 80" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>
 						<Array Lengths="0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 140" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 140" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -10546,21 +10545,21 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Double[,]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Double[,]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>
 						<Array Lengths="0,0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="15 50" ListViewHotSpot="0 50" LocalizedNameKey="sampling_2000frequency_DataItem_Name" Name="sampling frequency" PreferredDirection="Input" SideIndex="B0">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="15 50" ListViewHotSpot="0 50" LocalizedNameKey="sampling_2000frequency_DataItem_Name" Name="sampling frequency" PreferredDirection="Input" SideIndex="B0" UnitAnnotation="">
 					<p.DefaultValue>0x3FF0000000000000</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="cutoff_2000frequency_DataItem_Name" Name="cutoff frequency" PreferredDirection="Input" SideIndex="L1">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="cutoff_2000frequency_DataItem_Name" Name="cutoff frequency" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
 					<p.DefaultValue>0x3FC0000000000002</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 95" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 95" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 125" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 125" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -10569,15 +10568,15 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 110" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 110" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3" UnitAnnotation="">
 					<p.DefaultValue>2</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Double[,]" HotSpot="50 5" ListViewHotSpot="150 80" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Double[,]" HotSpot="50 5" ListViewHotSpot="150 80" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>
 						<Array Lengths="0,0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 140" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 140" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -10622,14 +10621,14 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="" />
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="cutoff_2000frequency_DataItem_Name" Name="cutoff frequency" PreferredDirection="Input" SideIndex="L1">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" />
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="cutoff_2000frequency_DataItem_Name" Name="cutoff frequency" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
 					<p.DefaultValue>0x3FC0000000000002</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 80" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 80" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 110" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 110" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -10638,11 +10637,11 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 95" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 95" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3" UnitAnnotation="">
 					<p.DefaultValue>2</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Wfm(Double)[]" HotSpot="50 5" ListViewHotSpot="150 50" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="" />
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 125" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Wfm(Double)[]" HotSpot="50 5" ListViewHotSpot="150 50" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" />
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 125" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -10763,8 +10762,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="525" Name=":PC:Interactive:NI:Analysis:Measurement:Amplitude\ and\ Phase\ Spectrum\.gvi">
-		<DefinitionCacheUserSetting Envoy="525" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="525" Name=":PC:Interactive:NI:Analysis:Measurement:Amplitude\ and\ Phase\ Spectrum\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="525" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545F5F5770" Height="50" ListViewHeight="150" ListViewWidth="150" OverloadHelpId="NI.MocCommon:MethodCall.Amplitude and Phase Spectrum" Reentrancy="Stateful" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -10791,7 +10790,7 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 50" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 50" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -10800,14 +10799,14 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Required" DataType="Double[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" />
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Boolean" HotSpot="25 0" ListViewHotSpot="0 140" LocalizedNameKey="unwrap_2000phase_DataItem_Name" Name="unwrap phase" PreferredDirection="Input" SideIndex="T1">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Required" DataType="Double[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="" />
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Boolean" HotSpot="25 0" ListViewHotSpot="0 140" LocalizedNameKey="unwrap_2000phase_DataItem_Name" Name="unwrap phase" PreferredDirection="Input" SideIndex="T1" UnitAnnotation="">
 					<p.DefaultValue>True</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="15 50" ListViewHotSpot="0 110" LocalizedNameKey="dt_DataItem_Name" Name="dt" PreferredDirection="Input" SideIndex="B0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="15 50" ListViewHotSpot="0 110" LocalizedNameKey="dt_DataItem_Name" Name="dt" PreferredDirection="Input" SideIndex="B0">
 					<p.DefaultValue>0x3FF0000000000000</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 80" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 80" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -10816,9 +10815,9 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Double[]" HotSpot="50 5" ListViewHotSpot="150 65" LocalizedNameKey="magnitude_DataItem_Name" Name="magnitude" PreferredDirection="Output" SideIndex="R0" />
-				<DataItemCacheInfo CallDirection="Output" CallIndex="2" CallUsage="Recommended" DataType="Double[]" HotSpot="50 15" ListViewHotSpot="150 95" LocalizedNameKey="phase_DataItem_Name" Name="phase" PreferredDirection="Output" SideIndex="R1" />
-				<DataItemCacheInfo CallDirection="Output" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="35 50" ListViewHotSpot="150 125" LocalizedNameKey="df_DataItem_Name" Name="df" PreferredDirection="Output" SideIndex="B2">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Double[]" HotSpot="50 5" ListViewHotSpot="150 65" LocalizedNameKey="magnitude_DataItem_Name" Name="magnitude" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="" />
+				<DataItemCacheInfo CallDirection="Output" CallIndex="2" CallUsage="Recommended" DataType="Double[]" HotSpot="50 15" ListViewHotSpot="150 95" LocalizedNameKey="phase_DataItem_Name" Name="phase" PreferredDirection="Output" SideIndex="R1" UnitAnnotation="" />
+				<DataItemCacheInfo CallDirection="Output" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="35 50" ListViewHotSpot="150 125" LocalizedNameKey="df_DataItem_Name" Name="df" PreferredDirection="Output" SideIndex="B2" UnitAnnotation="">
 					<p.DefaultValue>0x0</p.DefaultValue>
 				</DataItemCacheInfo>
 				<CachedMethodCallDependency ExportedSignature="-424521775" SourceId="65" TargetName="NI:Analysis:Transforms:Real\ FFT\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
@@ -10829,8 +10828,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="529" Name=":PC:Interactive:NI:Analysis:Conditioning:Unwrap\ Phase\.gvi">
-		<DefinitionCacheUserSetting Envoy="529" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="529" Name=":PC:Interactive:NI:Analysis:Conditioning:Unwrap\ Phase\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="529" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545FAF6A59" Height="50" ListViewHeight="105" ListViewWidth="150" Reentrancy="Stateful" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -10858,11 +10857,11 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Double[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="input_2000phase_DataItem_Name" Name="input phase" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="" />
-				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Int32" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="phase_2000unit_DataItem_Name" Name="phase unit" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Double[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="input_2000phase_DataItem_Name" Name="input phase" PreferredDirection="Input" SideIndex="L0" />
+				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Int32" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="phase_2000unit_DataItem_Name" Name="phase unit" PreferredDirection="Input" SideIndex="L1">
 					<p.DefaultValue>0</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 80" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 80" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -10871,8 +10870,8 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Double[]" HotSpot="50 5" ListViewHotSpot="150 50" LocalizedNameKey="unwrapped_2000phase_DataItem_Name" Name="unwrapped phase" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="" />
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 95" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Double[]" HotSpot="50 5" ListViewHotSpot="150 50" LocalizedNameKey="unwrapped_2000phase_DataItem_Name" Name="unwrapped phase" PreferredDirection="Output" SideIndex="R0" />
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 95" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -11488,7 +11487,7 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)" HotSpot="0 5" ListViewHotSpot="0 110" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)" HotSpot="0 5" ListViewHotSpot="0 110" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>
 						<Waveform>
 							<Timestamp>60052752000;0;Utc</Timestamp>
@@ -11503,16 +11502,16 @@
 						</Waveform>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="0 25" ListViewHotSpot="0 140" LocalizedNameKey="high_2000cutoff_2000frequency_DataItem_Name" Name="high cutoff frequency" PreferredDirection="Input" SideIndex="L2">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="0 25" ListViewHotSpot="0 140" LocalizedNameKey="high_2000cutoff_2000frequency_DataItem_Name" Name="high cutoff frequency" PreferredDirection="Input" SideIndex="L2" UnitAnnotation="">
 					<p.DefaultValue>0x3FDCCCCCCCCCCCCD</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 35" LocalizedNameKey="low_2000cutoff_2000frequency_DataItem_Name" Name="low cutoff frequency" PreferredDirection="Input" SideIndex="L1">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 35" LocalizedNameKey="low_2000cutoff_2000frequency_DataItem_Name" Name="low cutoff frequency" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
 					<p.DefaultValue>0x3FC0000000000002</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 50" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 50" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 80" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 80" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -11521,10 +11520,10 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 65" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 65" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3" UnitAnnotation="">
 					<p.DefaultValue>2</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Wfm(Double)" HotSpot="50 5" ListViewHotSpot="150 125" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Wfm(Double)" HotSpot="50 5" ListViewHotSpot="150 125" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>
 						<Waveform>
 							<Timestamp>60052752000;0;Utc</Timestamp>
@@ -11539,7 +11538,7 @@
 						</Waveform>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 95" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 95" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -11861,105 +11860,18 @@
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
 	<DataTypeReferenceTable>
-		<p.TypeReference TypeId="69c3ac55219d4949a8a7bfcc38c9a9e0">
-			<Attributed>
-				<AttributedType>
-					<Typedef TypedefName="Resample State (DBL).gtype" UnderlyingType="@dbef605c6e4c4d6993d876afa3eac065" />
-				</AttributedType>
-				<AttributeValues>
-					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Resampling" />
-				</AttributeValues>
-			</Attributed>
-		</p.TypeReference>
-		<p.TypeReference TypeId="95f37bc3d9ce4f6da5a7d28272f13425">
-			<Attributed>
-				<AttributedType>
-					<Typedef TypedefName="Resample Constant Config.gtype" UnderlyingType="@120163bfb9e74089a1cfc8c42255d78e" />
-				</AttributedType>
-				<AttributeValues>
-					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Resampling" />
-				</AttributeValues>
-			</Attributed>
-		</p.TypeReference>
-		<p.TypeReference TypeId="78bb76802a624661bfb5786556196c83">
-			<Attributed>
-				<AttributedType>
-					<Typedef TypedefName="winPropTd.gtype" UnderlyingType="@b03bcaa5332d4df68959aaf6faa89cde" />
-				</AttributedType>
-				<AttributeValues>
-					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Windows" />
-				</AttributeValues>
-			</Attributed>
-		</p.TypeReference>
-		<p.TypeReference TypeId="08dd41febb9a41e985885148d4203f39">
-			<Attributed>
-				<AttributedType>
-					<Typedef TypedefName="Filter Reset.gtype" UnderlyingType="Boolean" />
-				</AttributedType>
-				<AttributeValues>
-					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Filtering" />
-				</AttributeValues>
-			</Attributed>
-		</p.TypeReference>
-		<p.TypeReference TypeId="efd3b28902054d6896cd9a1b1288bc8e">
-			<Attributed>
-				<AttributedType>
-					<Typedef TypedefName="RNGState.gtype" UnderlyingType="@91b9a3681f9c4ea787455c91ed59821f" />
-				</AttributedType>
-				<AttributeValues>
-					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Generation" />
-				</AttributeValues>
-			</Attributed>
-		</p.TypeReference>
-		<p.TypeReference TypeId="e44af589eb434df89dcffff9c336b24f">
-			<Attributed>
-				<AttributedType>
-					<Typedef TypedefName="Gauss State.gtype" UnderlyingType="@0b6827ba3c554907b8aec5c7e7d66b80" />
-				</AttributedType>
-				<AttributeValues>
-					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Generation" />
-				</AttributeValues>
-			</Attributed>
-		</p.TypeReference>
-		<p.TypeReference TypeId="c0060115b97b423a901a4db54b633271">
-			<Attributed>
-				<AttributedType>
-					<Typedef TypedefName="Pulse Signal_Reference Levels Settings.gtype" UnderlyingType="@c70de305b0f84053b8a8dd98ceac3a49" />
-				</AttributedType>
-				<AttributeValues>
-					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Measurement" />
-				</AttributeValues>
-			</Attributed>
-		</p.TypeReference>
-		<p.TypeReference TypeId="1dae4eaa6d8c41e9bcd56e582a73f295">
-			<Attributed>
-				<AttributedType>
-					<Typedef TypedefName="Pulse Signal_State Levels Settings.gtype" UnderlyingType="@f8224b12cf134eeb9ed702d2dc5fbb8a" />
-				</AttributedType>
-				<AttributeValues>
-					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Measurement" />
-				</AttributeValues>
-			</Attributed>
-		</p.TypeReference>
-		<p.TypeReference TypeId="ee68f1d585e64adc804ea2eccb2cf03f">
-			<Attributed>
-				<AttributedType>
-					<Typedef TypedefName="histogram bins.gtype" UnderlyingType="@f659de3bd9044c3ba4df2d79b1b47c10" />
-				</AttributedType>
-				<AttributeValues>
-					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Statistics" />
-				</AttributeValues>
-			</Attributed>
-		</p.TypeReference>
-		<p.TypeReference TypeId="74296c28d6eb4c7d83816d3ce93bdbee">
-			<Attributed>
-				<AttributedType>
-					<Typedef TypedefName="histogram count.gtype" UnderlyingType="@6c01e8d42ad040ad925285e4df6c046e" />
-				</AttributedType>
-				<AttributeValues>
-					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Statistics" />
-				</AttributeValues>
-			</Attributed>
+		<p.TypeReference TypeId="f659de3bd9044c3ba4df2d79b1b47c10">
+			<VariableArray>
+				<DereferenceType>
+					<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+						<Members>
+							<Field FieldAccessPolicy="ReadWrite" Name="lower" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="upper" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="inclusion" DataType="UInt32" />
+						</Members>
+					</Composite>
+				</DereferenceType>
+			</VariableArray>
 		</p.TypeReference>
 		<p.TypeReference TypeId="12ee7df477054292b73120c193c44769">
 			<Enumeration>
@@ -11982,31 +11894,6 @@
 					<UInt32 />
 				</DataType>
 			</Enumeration>
-		</p.TypeReference>
-		<p.TypeReference TypeId="0972aa5150324ffe9f09f739f3834a31">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="x values">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="histogram h(x)">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="6c01e8d42ad040ad925285e4df6c046e">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="total" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="below" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="above" DataType="Int32" />
-				</Members>
-			</Composite>
 		</p.TypeReference>
 		<p.TypeReference TypeId="554503c663d347f6a4d83249e7b24780">
 			<VariableArray>
@@ -12034,22 +11921,6 @@
 					</Composite>
 				</DereferenceType>
 			</VariableArray>
-		</p.TypeReference>
-		<p.TypeReference TypeId="3936302f921641b7bb826f29fd0faf66">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="x values">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="histogram h(x)">
-						<DataType>
-							<VariableArray DereferenceType="Int32" />
-						</DataType>
-					</Field>
-				</Members>
-			</Composite>
 		</p.TypeReference>
 		<p.TypeReference TypeId="4158a2251dd14fcaaaf4faf2eb6cf65f">
 			<VariableArray>
@@ -12084,6 +11955,332 @@
 				</DereferenceType>
 			</VariableArray>
 		</p.TypeReference>
+		<p.TypeReference TypeId="badaece408c64409bcfcbe29aa675226">
+			<VariableArray>
+				<DereferenceType>
+					<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+						<Members>
+							<Field FieldAccessPolicy="ReadWrite" Name="f0" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="df" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="magnitude">
+								<DataType>
+									<VariableArray DereferenceType="Double" />
+								</DataType>
+							</Field>
+						</Members>
+					</Composite>
+				</DereferenceType>
+			</VariableArray>
+		</p.TypeReference>
+		<p.TypeReference TypeId="cf32eea2ba0a4cea920546ea59e9fc42">
+			<Enumeration>
+				<Members>
+					<EnumerationMember Value="0" Name="FFT spectrum" />
+					<EnumerationMember Value="1" Name="Power spectrum" />
+					<EnumerationMember Value="2" Name="Cross spectrum" />
+					<EnumerationMember Value="3" Name="Frequency response" />
+				</Members>
+				<DataType>
+					<UInt16 />
+				</DataType>
+			</Enumeration>
+		</p.TypeReference>
+		<p.TypeReference TypeId="49e5170de8be46c2a83b5889eed57c2c">
+			<Enumeration>
+				<Members>
+					<EnumerationMember Value="0" Name="Lowpass" />
+					<EnumerationMember Value="1" Name="Highpass" />
+					<EnumerationMember Value="2" Name="Bandpass" />
+					<EnumerationMember Value="3" Name="Bandstop" />
+				</Members>
+				<DataType>
+					<UInt32 />
+				</DataType>
+			</Enumeration>
+		</p.TypeReference>
+		<p.TypeReference TypeId="a8e771710f0347fda0f7b65f3a9cb15d">
+			<VariableArray>
+				<DereferenceType>
+					<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+						<Members>
+							<Field FieldAccessPolicy="ReadWrite" Name="amplitude" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="lower freq" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="higher freq" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="weighted ripple" DataType="Double" />
+						</Members>
+					</Composite>
+				</DereferenceType>
+			</VariableArray>
+		</p.TypeReference>
+		<p.TypeReference TypeId="69c3ac55219d4949a8a7bfcc38c9a9e0">
+			<Attributed>
+				<AttributedType>
+					<Typedef TypedefName="Resample State (DBL).gtype" UnderlyingType="@dbef605c6e4c4d6993d876afa3eac065" />
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Resampling" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="dbef605c6e4c4d6993d876afa3eac065">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="precondition">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="preconditionLen" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="extractFilterBuffer">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="scaling" DataType="Double" />
+					<Field FieldAccessPolicy="ReadWrite" Name="extractFilterLeftLen" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="extractFilterRightLen" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="method" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="new sample period" DataType="Double" />
+					<Field FieldAccessPolicy="ReadWrite" Name="offset" DataType="Double" />
+					<Field FieldAccessPolicy="ReadWrite" Name="index" DataType="Int32" />
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="95f37bc3d9ce4f6da5a7d28272f13425">
+			<Attributed>
+				<AttributedType>
+					<Typedef TypedefName="Resample Constant Config.gtype" UnderlyingType="@120163bfb9e74089a1cfc8c42255d78e" />
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Resampling" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="120163bfb9e74089a1cfc8c42255d78e">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="new sample period" DataType="Double" />
+					<Field FieldAccessPolicy="ReadWrite" Name="Timing Jitter">
+						<DataType>
+							<Enumeration>
+								<Members>
+									<EnumerationMember Value="0" Name="Interpolation" />
+									<EnumerationMember Value="1" Name="Rounding" />
+								</Members>
+								<DataType>
+									<UInt32 />
+								</DataType>
+							</Enumeration>
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="first point location" DataType="Double" />
+					<Field FieldAccessPolicy="ReadWrite" Name="prototype filter">
+						<DataType>
+							<Composite Id="2" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+								<Members>
+									<Field FieldAccessPolicy="ReadWrite" Name="h">
+										<DataType>
+											<VariableArray DereferenceType="Double" />
+										</DataType>
+									</Field>
+									<Field FieldAccessPolicy="ReadWrite" Name="Max Decimation" DataType="Int32" />
+								</Members>
+							</Composite>
+						</DataType>
+					</Field>
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="78bb76802a624661bfb5786556196c83">
+			<Attributed>
+				<AttributedType>
+					<Typedef TypedefName="winPropTd.gtype" UnderlyingType="@b03bcaa5332d4df68959aaf6faa89cde" />
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Windows" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="b03bcaa5332d4df68959aaf6faa89cde">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="eq noise BW" DataType="Double" />
+					<Field FieldAccessPolicy="ReadWrite" Name="coherent gain" DataType="Double" />
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="08dd41febb9a41e985885148d4203f39">
+			<Attributed>
+				<AttributedType>
+					<Typedef TypedefName="Filter Reset.gtype" UnderlyingType="Boolean" />
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Filtering" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="efd3b28902054d6896cd9a1b1288bc8e">
+			<Attributed>
+				<AttributedType>
+					<Typedef TypedefName="RNGState.gtype" UnderlyingType="@91b9a3681f9c4ea787455c91ed59821f" />
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Generation" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="91b9a3681f9c4ea787455c91ed59821f">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="xSeed" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="ySeed" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="zSeed" DataType="Int32" />
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="e44af589eb434df89dcffff9c336b24f">
+			<Attributed>
+				<AttributedType>
+					<Typedef TypedefName="Gauss State.gtype" UnderlyingType="@0b6827ba3c554907b8aec5c7e7d66b80" />
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Generation" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="0b6827ba3c554907b8aec5c7e7d66b80">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="Literal2" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="Literal" DataType="Double" />
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="c0060115b97b423a901a4db54b633271">
+			<Attributed>
+				<AttributedType>
+					<Typedef TypedefName="Pulse Signal_Reference Levels Settings.gtype" UnderlyingType="@c70de305b0f84053b8a8dd98ceac3a49" />
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Measurement" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="c70de305b0f84053b8a8dd98ceac3a49">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="high ref level" DataType="Double" />
+					<Field FieldAccessPolicy="ReadWrite" Name="mid ref level" DataType="Double" />
+					<Field FieldAccessPolicy="ReadWrite" Name="low ref level" DataType="Double" />
+					<Field FieldAccessPolicy="ReadWrite" Name="ref units" DataType="UInt16" />
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="1dae4eaa6d8c41e9bcd56e582a73f295">
+			<Attributed>
+				<AttributedType>
+					<Typedef TypedefName="Pulse Signal_State Levels Settings.gtype" UnderlyingType="@f8224b12cf134eeb9ed702d2dc5fbb8a" />
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Measurement" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="f8224b12cf134eeb9ed702d2dc5fbb8a">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="method">
+						<DataType>
+							<Enumeration>
+								<Members>
+									<EnumerationMember Value="0" Name="histogram" />
+									<EnumerationMember Value="1" Name="peak" />
+									<EnumerationMember Value="2" Name="auto select" />
+								</Members>
+								<DataType>
+									<UInt32 />
+								</DataType>
+							</Enumeration>
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="histogram size" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="histogram method">
+						<DataType>
+							<Enumeration>
+								<Members>
+									<EnumerationMember Value="0" Name="mode" />
+								</Members>
+								<DataType>
+									<UInt16 />
+								</DataType>
+							</Enumeration>
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="reserved" DataType="Double" />
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="ee68f1d585e64adc804ea2eccb2cf03f">
+			<Attributed>
+				<AttributedType>
+					<Typedef TypedefName="histogram bins.gtype" UnderlyingType="@f659de3bd9044c3ba4df2d79b1b47c10" />
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Statistics" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="74296c28d6eb4c7d83816d3ce93bdbee">
+			<Attributed>
+				<AttributedType>
+					<Typedef TypedefName="histogram count.gtype" UnderlyingType="@6c01e8d42ad040ad925285e4df6c046e" />
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Statistics" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="6c01e8d42ad040ad925285e4df6c046e">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="total" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="below" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="above" DataType="Int32" />
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="0972aa5150324ffe9f09f739f3834a31">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="x values">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="histogram h(x)">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="3936302f921641b7bb826f29fd0faf66">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="x values">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="histogram h(x)">
+						<DataType>
+							<VariableArray DereferenceType="Int32" />
+						</DataType>
+					</Field>
+				</Members>
+			</Composite>
+		</p.TypeReference>
 		<p.TypeReference TypeId="00c562cb6f0f48aebf7d26307a5e822b">
 			<Attributed>
 				<AttributedType>
@@ -12094,6 +12291,49 @@
 				</AttributeValues>
 			</Attributed>
 		</p.TypeReference>
+		<p.TypeReference TypeId="83304ebd482f49d0a6c5e330a8e064cf">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="threshold" DataType="Double" />
+					<Field FieldAccessPolicy="ReadWrite" Name="Span" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="peaks/valleys">
+						<DataType>
+							<Enumeration>
+								<Members>
+									<EnumerationMember Value="0" Name="Peaks" />
+									<EnumerationMember Value="1" Name="Valleys" />
+								</Members>
+								<DataType>
+									<UInt16 />
+								</DataType>
+							</Enumeration>
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant_2">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant_3">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant_4">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="Element 8" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="Element 9" DataType="Int32" />
+				</Members>
+			</Composite>
+		</p.TypeReference>
 		<p.TypeReference TypeId="79307f69f70247df82d86d0de7c3fe19">
 			<Attributed>
 				<AttributedType>
@@ -12103,6 +12343,28 @@
 					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Measurement" />
 				</AttributeValues>
 			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="9c985578ff9947958fd25dcc69823d81">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="Span" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="Index" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="NHistoryPts" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="Len" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="PrevSign" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="unused" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="RinvQt (pointer)" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="FitBuffer (pointer)" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="History (pointer)" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="PrevCoeff (pointer)" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="Data (pointer)" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="slack for RinvQt" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="slack for FitBuffer" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="slack for History" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="slack for PrevCoeff" DataType="UInt32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="slack for Data" DataType="UInt32" />
+				</Members>
+			</Composite>
 		</p.TypeReference>
 		<p.TypeReference TypeId="db12ba8c4220471a80e41a527757cffd">
 			<Attributed>
@@ -12123,6 +12385,41 @@
 					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Measurement" />
 				</AttributeValues>
 			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="9caaf466fbf1477a8d1b589e1b168393">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="averaging mode">
+						<DataType>
+							<Enumeration>
+								<Members>
+									<EnumerationMember Value="0" Name="No averaging" />
+									<EnumerationMember Value="1" Name="Vector averaging" />
+									<EnumerationMember Value="2" Name="RMS averaging" />
+									<EnumerationMember Value="3" Name="Peak hold" />
+								</Members>
+								<DataType>
+									<UInt16 />
+								</DataType>
+							</Enumeration>
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="weighting mode">
+						<DataType>
+							<Enumeration>
+								<Members>
+									<EnumerationMember Value="0" Name="Linear" />
+									<EnumerationMember Value="1" Name="Exponential" />
+								</Members>
+								<DataType>
+									<UInt16 />
+								</DataType>
+							</Enumeration>
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="number of averages" DataType="UInt32" />
+				</Members>
+			</Composite>
 		</p.TypeReference>
 		<p.TypeReference TypeId="a8106957b9c74a119f0e3cfccf03e781">
 			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
@@ -12218,44 +12515,6 @@
 				</Members>
 			</Composite>
 		</p.TypeReference>
-		<p.TypeReference TypeId="badaece408c64409bcfcbe29aa675226">
-			<VariableArray>
-				<DereferenceType>
-					<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-						<Members>
-							<Field FieldAccessPolicy="ReadWrite" Name="f0" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="df" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="magnitude">
-								<DataType>
-									<VariableArray DereferenceType="Double" />
-								</DataType>
-							</Field>
-						</Members>
-					</Composite>
-				</DereferenceType>
-			</VariableArray>
-		</p.TypeReference>
-		<p.TypeReference TypeId="b03bcaa5332d4df68959aaf6faa89cde">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="eq noise BW" DataType="Double" />
-					<Field FieldAccessPolicy="ReadWrite" Name="coherent gain" DataType="Double" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="cf32eea2ba0a4cea920546ea59e9fc42">
-			<Enumeration>
-				<Members>
-					<EnumerationMember Value="0" Name="FFT spectrum" />
-					<EnumerationMember Value="1" Name="Power spectrum" />
-					<EnumerationMember Value="2" Name="Cross spectrum" />
-					<EnumerationMember Value="3" Name="Frequency response" />
-				</Members>
-				<DataType>
-					<UInt16 />
-				</DataType>
-			</Enumeration>
-		</p.TypeReference>
 		<p.TypeReference TypeId="9cbf261cf8e04e19b11f016681e2b4ee">
 			<Attributed>
 				<AttributedType>
@@ -12285,6 +12544,35 @@
 					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Filtering" />
 				</AttributeValues>
 			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="48f074f7796d4af1a8cc554eda33767a">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="filter structure">
+						<DataType>
+							<Attributed>
+								<AttributedType>
+									<Typedef TypedefName="filter structure.gtype" UnderlyingType="UInt32" />
+								</AttributedType>
+								<AttributeValues>
+									<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Filtering" />
+								</AttributeValues>
+							</Attributed>
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="forward coefficients">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="reverse coefficients">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="sampling frequency" DataType="Double" />
+				</Members>
+			</Composite>
 		</p.TypeReference>
 		<p.TypeReference TypeId="8b32681b3d7442f4b8c69ea3e481b538">
 			<Attributed>
@@ -12317,19 +12605,39 @@
 				</AttributeValues>
 			</Attributed>
 		</p.TypeReference>
-		<p.TypeReference TypeId="a8e771710f0347fda0f7b65f3a9cb15d">
-			<VariableArray>
-				<DereferenceType>
-					<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-						<Members>
-							<Field FieldAccessPolicy="ReadWrite" Name="amplitude" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="lower freq" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="higher freq" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="weighted ripple" DataType="Double" />
-						</Members>
-					</Composite>
-				</DereferenceType>
-			</VariableArray>
+		<p.TypeReference TypeId="0e042e922f814c9e90bc38b35a914c18">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="filter type">
+						<DataType>
+							<Enumeration>
+								<Members>
+									<EnumerationMember Value="0" Name="Lowpass" />
+									<EnumerationMember Value="1" Name="Highpass" />
+									<EnumerationMember Value="2" Name="Bandpass" />
+									<EnumerationMember Value="3" Name="Bandstop" />
+									<EnumerationMember Value="4" Name="Wideband-Lowpass" />
+									<EnumerationMember Value="5" Name="Wideband-Highpass" />
+								</Members>
+								<DataType>
+									<UInt32 />
+								</DataType>
+							</Enumeration>
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="interpolation" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="Model Filter">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+					<Field FieldAccessPolicy="ReadWrite" Name="Image Suppressor">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+				</Members>
+			</Composite>
 		</p.TypeReference>
 		<p.TypeReference TypeId="e8ae382ecf7742ba8f2934be9ec65216">
 			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
@@ -12419,315 +12727,6 @@
 						</DataType>
 					</Field>
 					<Field FieldAccessPolicy="ReadWrite" Name="Element 2">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="dbef605c6e4c4d6993d876afa3eac065">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="precondition">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="preconditionLen" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="extractFilterBuffer">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="scaling" DataType="Double" />
-					<Field FieldAccessPolicy="ReadWrite" Name="extractFilterLeftLen" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="extractFilterRightLen" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="method" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="new sample period" DataType="Double" />
-					<Field FieldAccessPolicy="ReadWrite" Name="offset" DataType="Double" />
-					<Field FieldAccessPolicy="ReadWrite" Name="index" DataType="Int32" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="120163bfb9e74089a1cfc8c42255d78e">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="new sample period" DataType="Double" />
-					<Field FieldAccessPolicy="ReadWrite" Name="Timing Jitter">
-						<DataType>
-							<Enumeration>
-								<Members>
-									<EnumerationMember Value="0" Name="Interpolation" />
-									<EnumerationMember Value="1" Name="Rounding" />
-								</Members>
-								<DataType>
-									<UInt32 />
-								</DataType>
-							</Enumeration>
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="first point location" DataType="Double" />
-					<Field FieldAccessPolicy="ReadWrite" Name="prototype filter">
-						<DataType>
-							<Composite Id="2" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-								<Members>
-									<Field FieldAccessPolicy="ReadWrite" Name="h">
-										<DataType>
-											<VariableArray DereferenceType="Double" />
-										</DataType>
-									</Field>
-									<Field FieldAccessPolicy="ReadWrite" Name="Max Decimation" DataType="Int32" />
-								</Members>
-							</Composite>
-						</DataType>
-					</Field>
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="91b9a3681f9c4ea787455c91ed59821f">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="xSeed" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="ySeed" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="zSeed" DataType="Int32" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="0b6827ba3c554907b8aec5c7e7d66b80">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="Literal2" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="Literal" DataType="Double" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="c70de305b0f84053b8a8dd98ceac3a49">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="high ref level" DataType="Double" />
-					<Field FieldAccessPolicy="ReadWrite" Name="mid ref level" DataType="Double" />
-					<Field FieldAccessPolicy="ReadWrite" Name="low ref level" DataType="Double" />
-					<Field FieldAccessPolicy="ReadWrite" Name="ref units" DataType="UInt16" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="f8224b12cf134eeb9ed702d2dc5fbb8a">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="method">
-						<DataType>
-							<Enumeration>
-								<Members>
-									<EnumerationMember Value="0" Name="histogram" />
-									<EnumerationMember Value="1" Name="peak" />
-									<EnumerationMember Value="2" Name="auto select" />
-								</Members>
-								<DataType>
-									<UInt32 />
-								</DataType>
-							</Enumeration>
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="histogram size" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="histogram method">
-						<DataType>
-							<Enumeration>
-								<Members>
-									<EnumerationMember Value="0" Name="mode" />
-								</Members>
-								<DataType>
-									<UInt16 />
-								</DataType>
-							</Enumeration>
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="reserved" DataType="Double" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="f659de3bd9044c3ba4df2d79b1b47c10">
-			<VariableArray>
-				<DereferenceType>
-					<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-						<Members>
-							<Field FieldAccessPolicy="ReadWrite" Name="lower" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="upper" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="inclusion" DataType="UInt32" />
-						</Members>
-					</Composite>
-				</DereferenceType>
-			</VariableArray>
-		</p.TypeReference>
-		<p.TypeReference TypeId="83304ebd482f49d0a6c5e330a8e064cf">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="threshold" DataType="Double" />
-					<Field FieldAccessPolicy="ReadWrite" Name="Span" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="peaks/valleys">
-						<DataType>
-							<Enumeration>
-								<Members>
-									<EnumerationMember Value="0" Name="Peaks" />
-									<EnumerationMember Value="1" Name="Valleys" />
-								</Members>
-								<DataType>
-									<UInt16 />
-								</DataType>
-							</Enumeration>
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant_2">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant_3">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="Array Constant_4">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="Element 8" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="Element 9" DataType="Int32" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="9c985578ff9947958fd25dcc69823d81">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="Span" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="Index" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="NHistoryPts" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="Len" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="PrevSign" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="unused" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="RinvQt (pointer)" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="FitBuffer (pointer)" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="History (pointer)" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="PrevCoeff (pointer)" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="Data (pointer)" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="slack for RinvQt" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="slack for FitBuffer" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="slack for History" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="slack for PrevCoeff" DataType="UInt32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="slack for Data" DataType="UInt32" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="9caaf466fbf1477a8d1b589e1b168393">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="averaging mode">
-						<DataType>
-							<Enumeration>
-								<Members>
-									<EnumerationMember Value="0" Name="No averaging" />
-									<EnumerationMember Value="1" Name="Vector averaging" />
-									<EnumerationMember Value="2" Name="RMS averaging" />
-									<EnumerationMember Value="3" Name="Peak hold" />
-								</Members>
-								<DataType>
-									<UInt16 />
-								</DataType>
-							</Enumeration>
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="weighting mode">
-						<DataType>
-							<Enumeration>
-								<Members>
-									<EnumerationMember Value="0" Name="Linear" />
-									<EnumerationMember Value="1" Name="Exponential" />
-								</Members>
-								<DataType>
-									<UInt16 />
-								</DataType>
-							</Enumeration>
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="number of averages" DataType="UInt32" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="49e5170de8be46c2a83b5889eed57c2c">
-			<Enumeration>
-				<Members>
-					<EnumerationMember Value="0" Name="Lowpass" />
-					<EnumerationMember Value="1" Name="Highpass" />
-					<EnumerationMember Value="2" Name="Bandpass" />
-					<EnumerationMember Value="3" Name="Bandstop" />
-				</Members>
-				<DataType>
-					<UInt32 />
-				</DataType>
-			</Enumeration>
-		</p.TypeReference>
-		<p.TypeReference TypeId="48f074f7796d4af1a8cc554eda33767a">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="filter structure">
-						<DataType>
-							<Attributed>
-								<AttributedType>
-									<Typedef TypedefName="filter structure.gtype" UnderlyingType="UInt32" />
-								</AttributedType>
-								<AttributeValues>
-									<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Filtering" />
-								</AttributeValues>
-							</Attributed>
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="forward coefficients">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="reverse coefficients">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="sampling frequency" DataType="Double" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="0e042e922f814c9e90bc38b35a914c18">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="filter type">
-						<DataType>
-							<Enumeration>
-								<Members>
-									<EnumerationMember Value="0" Name="Lowpass" />
-									<EnumerationMember Value="1" Name="Highpass" />
-									<EnumerationMember Value="2" Name="Bandpass" />
-									<EnumerationMember Value="3" Name="Bandstop" />
-									<EnumerationMember Value="4" Name="Wideband-Lowpass" />
-									<EnumerationMember Value="5" Name="Wideband-Highpass" />
-								</Members>
-								<DataType>
-									<UInt32 />
-								</DataType>
-							</Enumeration>
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="interpolation" DataType="Int32" />
-					<Field FieldAccessPolicy="ReadWrite" Name="Model Filter">
-						<DataType>
-							<VariableArray DereferenceType="Double" />
-						</DataType>
-					</Field>
-					<Field FieldAccessPolicy="ReadWrite" Name="Image Suppressor">
 						<DataType>
 							<VariableArray DereferenceType="Double" />
 						</DataType>
