@@ -10,6 +10,7 @@
 ![](https://cloud.githubusercontent.com/assets/2521843/22543895/80431ca6-e92a-11e6-97bb-76e41913488d.png)
 
 > As we increase the frequency deviation the spread of the PSD increases.
+**EXPLAIN WHY**
 
 ###Block diagram
 ![](https://cloud.githubusercontent.com/assets/2521843/22543826/2629a898-e92a-11e6-9f67-cb2a7fa2c381.png)
