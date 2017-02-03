@@ -51,6 +51,7 @@ standard deviation :
 ![](https://cloud.githubusercontent.com/assets/2521843/22105116/7594a9a0-de3a-11e6-83cf-4cd9c0cfbf8c.png)
 
 
+The part of the circuit that does this standardisation can be seen in the lower right corner of the loop.
 
 
 
