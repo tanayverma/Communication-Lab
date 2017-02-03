@@ -62,19 +62,14 @@ Input
 
 Output
 
+The graphs show the waveform's PSD, the original waveform, and then the waveform after filtering.
+
+The original waveform's FFT is also shown, with noticeable spikes at 10, 30 and 100Hz. After we applied a filter with a low cutoff of 25Hz and high cutoff of 35Hz, the FFT changes to show a spike at only 30Hz.
+
+This concurs with the graph of the waveform post filter, as it is a sine wave with only one main frequency component at 30Hz.
+
+This has happened because we have attenuated the two other frequency components that made up the original waveform with the filter.
+
 ![](https://cloud.githubusercontent.com/assets/2521843/22105958/6a4e836e-de3e-11e6-9ca2-2690570d32ed.png)
-
-
-#Thoughts
-
-***Tanay*** : The activity is quite interesting. Labview is intuitive to use and has a shallow learning curve.
-
-***Louis*** :  Suprised that in labview the wires automatically change size depending on their input. 
-
-E.g. if its 32 bit it changes, if its array it changes to a bus.
-
-Controls are the input, indicators are the output.
-
-First task was relatively easy.
 
 
