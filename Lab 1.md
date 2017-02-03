@@ -44,9 +44,9 @@ To create a Standard Normal distribution, our distribution must be normalised.
 
 This is done by transforming the mean and standard deviation as follows:
 
-mean = 1/b-a
+Mean = 1/b-a
 
-standard deviation :
+Standard Deviation :
 
 ![](https://cloud.githubusercontent.com/assets/2521843/22105116/7594a9a0-de3a-11e6-83cf-4cd9c0cfbf8c.png)
 
