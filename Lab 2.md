@@ -18,7 +18,9 @@
 
 ###Impact of modulation index on modulated signal?
 
-Increasing the modulating index will make the signal more like a sinewave.
+The modulation index is equal to Amplitude(message)/Amplitude(carrier), so it is a representation of how similar the AM waveform is to the message signal. 
+
+Increasing the modulating index will make the signal more like the original sinewave, as shown by each successive AM Power Spectrum having larger spikes centred around the main 10kHz spike.
 
 
 ###Effect of changing frequency to 1k,2k,5k (same modulation index)
@@ -34,7 +36,7 @@ Increasing the modulating index will make the signal more like a sinewave.
 ![](https://cloud.githubusercontent.com/assets/2521843/22419166/1dee6ed2-e6d4-11e6-87c5-c263fa1bcbdf.png)
 
 
-Frequency too high.
+Increasing the frequency of the message signal brings the range of frequencies of the AM waveform closer to the frequency of the carrier signal, causing the AM waveform to look increasingly like a sine wave of frequency 10kHz. 
 
 #AM DEMODULATION - COHERENT DETECTION
 
