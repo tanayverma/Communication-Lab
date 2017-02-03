@@ -1,3 +1,7 @@
+#QUESTION HOW TO CHANGE SYMBOL RATE AND WHAT IT IS
+
+
+
 #2.Upsampling
 
 We are sending information with L length
