@@ -32,21 +32,23 @@ HOT turns on when its greater than or equal to 50
 
 #Exercise 2 - CLT
 
-For Uniform Distribution,
+This is the block diagram for the circuit :
+
+![](https://cloud.githubusercontent.com/assets/2521843/22105642/ef1e3654-de3c-11e6-9296-36ad3f69869d.png)
+
+This is the front panel:
+
+![](https://cloud.githubusercontent.com/assets/2521843/22105610/cc334440-de3c-11e6-95c8-562b6eeda47e.png)
+
+To create a Standard Normal distribution, our distribution must be normalised.
+
+This is done by transforming the mean and standard deviation as follows:
 
 mean = 1/b-a
 
 standard deviation :
 
 ![](https://cloud.githubusercontent.com/assets/2521843/22105116/7594a9a0-de3a-11e6-83cf-4cd9c0cfbf8c.png)
-
-Circuit :
-
-![](https://cloud.githubusercontent.com/assets/2521843/22105642/ef1e3654-de3c-11e6-9296-36ad3f69869d.png)
-
-
-![](https://cloud.githubusercontent.com/assets/2521843/22105610/cc334440-de3c-11e6-95c8-562b6eeda47e.png)
-
 
 
 
