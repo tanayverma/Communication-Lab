@@ -1,5 +1,9 @@
 #QUESTION HOW TO CHANGE SYMBOL RATE AND WHAT IT IS
 
+#2.5 Question WHAT IS PHASE SYNC - RED
+
+#2.6 Question - How to wire up reciever sampling factor (Decimating factor M)
+
 
 
 #2.Upsampling
