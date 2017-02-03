@@ -1,20 +1,18 @@
 #Exercise 1
 
-* Convert letter to string (*ASCII binary representation*) - Unsigned integer form 
-* Treat each integer into Fahrenheit and convert to Celsius
+* Convert letter from string (*ASCII binary representation*) to unsigned integer form 
+* Treat each integer as a Fahrenheit value and convert to Celsius
+* Average the Celsius values and compare to a predetermined "HOT" threshold value
+* Output "HOT" if average value is higher than threshold
+
 
 ![](https://cloud.githubusercontent.com/assets/2521843/21977179/ff2158fa-dbcc-11e6-8f68-29a215bab123.png)
-
-* Average the Celsiuis values and compare to threshold value
-* Output hot
-
-
 
 
 
 ###Task
 
-Input first 3 letter of name
+Input first 3 letters of surname
 
 ![](https://cloud.githubusercontent.com/assets/2521843/22104813/f3f5b016-de38-11e6-8ed8-ead6f11ea1b3.png)
 
@@ -25,12 +23,13 @@ Output
 ```cpp
 The array contains the ASCII values for 'kue'
 
-We then convert it to farenheit and store it in an array
+We then convert these values to fahrenheit and store them in an array
 
-Lastly we get the AVG temp.
+Lastly we get the average fahrenheit temp.
 
 HOT turns on when its greater than or equal to 50
 ```
+
 #Exercise 2 - CLT
 
 For Uniform Distribution,
