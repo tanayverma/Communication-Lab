@@ -44,6 +44,14 @@ Increasing the frequency of the message signal brings the range of frequencies o
 
 ###Explain mathematical theory behind this demodulation. - Why low pass and why - DC. Why do we need to scale the message
 
+The message signal is m(t). The carrier signal is cos(wct). The AM signal is the message x carrier =  m(t)cos(wct). 
+
+When the AM signal is multiplied again by the carrier, it becomes m(t)cos^2(wct). This is mathematically equivalent to 0.5[m(t) + m(t)cos(2wct). 
+
+The fourier transform of this = 0.5M(w) + 0.25[M(w + 2wc) + M(w - 2wc)]. This means there are three peaks centred around frequencies of 0, 2wc and -2wc. We use a low pass filter to remove the peaks at 2wc and -2wc, leaving only 0.5M(w).
+
+Removing the DC component after the filter eliminates the carrier signal, meaning the signal is now 0.5m(t). This is then scaled up by 2 to get the original message signal, m(t).
+
 
 
 #AM DEMODULATION ENVELOPE DETECTION
