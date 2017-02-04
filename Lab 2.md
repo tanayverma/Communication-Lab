@@ -42,7 +42,7 @@ Increasing the frequency of the message signal brings the range of frequencies o
 
 ![](https://cloud.githubusercontent.com/assets/2521843/22419295/b74bad38-e6d4-11e6-851e-7a423c6d8fe1.png)
 
-###Explain mathematical theory behind this demodulation. - Why low pass and why - DC. Why do we need to scale the message
+###Explain mathematical theory behind this demodulation. Why low pass and why - DC? Why do we need to scale the message?
 
 The message signal is m(t). The carrier signal is cos(wct). The AM signal is the message x carrier =  m(t)cos(wct). 
 
@@ -58,6 +58,14 @@ Removing the DC component after the filter eliminates the carrier signal, meanin
 ![](https://cloud.githubusercontent.com/assets/2521843/22419380/21913f78-e6d5-11e6-81a3-c26300a94116.png)
 
 ###Explain the mathematical theory
+
+The message signal = m(t). The modulating signal = A + m(t). The modulated signal = [A + m(t)]cos(wct).
+
+For envelope detection to work, A + m(t) >= 0. This is why we have a case structure which takes all negative values of the signal and sets them to 0, meaning the signal is always >= 0.
+
+This signal can then be demodulated using the method in the exercise above, using a filter and by removing the DC component.
+
+
 
 #Exercise 3 AM simulation
 ![](https://cloud.githubusercontent.com/assets/2521843/22419458/7dd9865a-e6d5-11e6-84f6-fc03ed1eae67.png)
