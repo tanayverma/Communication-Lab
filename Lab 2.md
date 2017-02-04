@@ -87,7 +87,11 @@ This signal can then be demodulated using the method in the exercise above, usin
 ###Message amplitude : 4
 ![](https://cloud.githubusercontent.com/assets/2521843/22420130/a5572e00-e6d8-11e6-83c9-b7de7c4e8e9e.png)
 
+###Explain any changes between the two modulation techniques as the message signal amplitude changes from 1 to 4 with steps of 1
 
+The only difference between the two detection technquies is that as the message amplitude increases, the PSD of the Envelope Detected waveform starts to show two small peaks at 2k and 3k, apart from the much larger peak at 1k. 
+
+This is most likely due to the fact that Envelope Detection is more prone to noise than Coherent Detection.
 
 #Ex 4 - USRP
 
