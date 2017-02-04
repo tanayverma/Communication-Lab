@@ -38,7 +38,7 @@ Increasing the modulating index will make the signal more like the original sine
 
 Increasing the frequency of the message signal brings the range of frequencies of the AM waveform closer to the frequency of the carrier signal, causing the AM waveform to look increasingly like a sine wave of frequency 10kHz. 
 
-#Exercise 2A - COHERENT DETECTION
+#Exercise 2A: Coherent Detection
 
 ![](https://cloud.githubusercontent.com/assets/2521843/22419295/b74bad38-e6d4-11e6-851e-7a423c6d8fe1.png)
 
@@ -54,7 +54,7 @@ Removing the DC component after the filter eliminates the carrier signal, meanin
 
 
 
-#Exercise 2B - ENVELOPE DETECTION
+#Exercise 2B: Envelope Detection
 ![](https://cloud.githubusercontent.com/assets/2521843/22419380/21913f78-e6d5-11e6-81a3-c26300a94116.png)
 
 ###Explain the mathematical theory
@@ -67,7 +67,7 @@ This signal can then be demodulated using the method in the exercise above, usin
 
 
 
-#Exercise 3 - AM SIMULATION
+#Exercise 3: AM Simulation
 ![](https://cloud.githubusercontent.com/assets/2521843/22419458/7dd9865a-e6d5-11e6-84f6-fc03ed1eae67.png)
 
 
@@ -93,7 +93,7 @@ The only difference between the two detection technquies is that as the message 
 
 This is most likely due to the fact that Envelope Detection is more prone to noise than Coherent Detection.
 
-#Ex 4 - AM COMMUNICATIONS VIA USRP
+#Ex 4: AM Communications via USRP
 
 ###Explain how transmitter and reciever works.
 
