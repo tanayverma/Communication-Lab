@@ -40,3 +40,14 @@ As this increases, naturally the PSD will reflect this by having spikes at a lar
 ![](https://cloud.githubusercontent.com/assets/2521843/22568533/0c6af198-e98c-11e6-8a3d-60912857c3b4.png)
 
 >Our results are as expected, with the message signal having an amplitude of 2 and frequency at 1k Hz
+
+#FM spectrum
+
+##30k Freq Div
+![](https://cloud.githubusercontent.com/assets/2521843/22586185/40fe7c1a-e9f3-11e6-96ce-dd1488319f68.png)
+##5k Freq Div
+![](https://cloud.githubusercontent.com/assets/2521843/22586213/5c58b426-e9f3-11e6-98c0-e49cba6ca15c.png)
+
+> We can see that as we change our frequency our bandwwidth increase by a factor of 2 * (change in freq + B)
+* I.E Around 12k for 5k Freq dev
+* 62k for 30k  Freq dev
