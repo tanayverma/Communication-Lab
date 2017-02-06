@@ -95,7 +95,11 @@ This is most likely due to the fact that Envelope Detection is more prone to noi
 
 #Ex 4: AM Communications via USRP
 
-###Explain how transmitter and reciever works.
-
-###Revise usrp
+###USRP
+####Modulation Index = 1
+![](https://cloud.githubusercontent.com/assets/2521843/22585887/ffc4c110-e9f1-11e6-8285-d6c97b1c1709.png)
+####Modulation Index = 2
+![](https://cloud.githubusercontent.com/assets/2521843/22585912/1a8d269a-e9f2-11e6-9492-a66a7c087683.png)
+####Modulation Index = 3
+![](https://cloud.githubusercontent.com/assets/2521843/22585937/305d7484-e9f2-11e6-9490-92a56211a890.png)
 
