@@ -10,6 +10,13 @@
 ![](https://cloud.githubusercontent.com/assets/2521843/22543895/80431ca6-e92a-11e6-97bb-76e41913488d.png)
 
 
+As we increase the frequency deviation the FM waveform has more visible compressions and rarefactions. The spread of values in the PSD also increases.
+
+Frequency deviation is a measure of the statistical range of frequencies (the difference between lowest and highest frequencies). 
+
+As this increases, naturally the PSD will reflect this by having spikes at a larger number of frequencies, as the FM signal is now made up of a more varied range of frequencies.
+
+
 ###Block diagram
 ![](https://cloud.githubusercontent.com/assets/2521843/22543826/2629a898-e92a-11e6-9f67-cb2a7fa2c381.png)
 
