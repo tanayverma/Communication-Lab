@@ -1,3 +1,5 @@
+#TANAY VERMA, LOUIS KUEH IX-05-08
+
 #Exercise 1
 
 * Convert letter from string (*ASCII binary representation*) to unsigned integer form 
